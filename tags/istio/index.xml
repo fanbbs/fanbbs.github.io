@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Istio on SpringCloud</title>
+    <link>https://blog.hyperdata.ltd/tags/istio/</link>
+    <description>Recent content in Istio on SpringCloud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Tue, 11 Sep 2018 14:48:53 +0800</lastBuildDate>
+    
+	<atom:link href="https://blog.hyperdata.ltd/tags/istio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>理解 Istio Service Mesh 中 Envoy 代理 Sidecar 注入及流量劫持</title>
+      <link>https://blog.hyperdata.ltd/blog/envoy-sidecar-injection-in-istio-service-mesh-deep-dive/</link>
+      <pubDate>Tue, 11 Sep 2018 14:48:53 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/blog/envoy-sidecar-injection-in-istio-service-mesh-deep-dive/</guid>
+      <description>以往有很多文章讲解 Istio 是如何做 Sidecar 注入的，但是没有讲解注入之后 Sidecar 工作的细节。本文将带大家详细了解 Istio 是如何将 Envoy 作为 Sidecar 的方式注入到应用程序 Pod 中，及 Sidecar</description>
+    </item>
+    
+    <item>
+      <title>IBM云计算CTO讲述Istio项目的起源、分工及目标</title>
+      <link>https://blog.hyperdata.ltd/blog/istio-aims-to-be-the-mesh-plumbing-for-containerized-microservices/</link>
+      <pubDate>Tue, 28 Aug 2018 16:15:25 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/blog/istio-aims-to-be-the-mesh-plumbing-for-containerized-microservices/</guid>
+      <description>本文原标题为：Istio目标是成为容器化微服务的网状管道 在精彩的软件容器世界中，原本早已解决的问题又有新的解决方案出现，给人有种恍惚的感觉。</description>
+    </item>
+    
+    <item>
+      <title>Istio源码解析系列part3—Mixer工作流程浅析</title>
+      <link>https://blog.hyperdata.ltd/blog/istio-deepin-part3-mixer-workflow/</link>
+      <pubDate>Wed, 04 Jul 2018 19:44:08 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/blog/istio-deepin-part3-mixer-workflow/</guid>
+      <description>本文系转载，作者：郑伟，小米信息部技术架构组 本系列文章主要从源码（35e2b904）出发，对istio做深入剖析，让大家对istio有更深的</description>
+    </item>
+    
+    <item>
+      <title>Istio源码解析系列part2—服务治理配置生效流程解析</title>
+      <link>https://blog.hyperdata.ltd/blog/istio-deepin-part2-serivce-management-workflow/</link>
+      <pubDate>Wed, 04 Jul 2018 19:24:37 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/blog/istio-deepin-part2-serivce-management-workflow/</guid>
+      <description>本文系转载，原文作者：郑伟，小米信息部技术架构组 本系列文章主要从源码（35e2b904）出发，对istio做深入剖析，让大家对istio有更</description>
+    </item>
+    
+    <item>
+      <title>Istio源码解析系列part1—Istio源码架构介绍及开发环境搭建</title>
+      <link>https://blog.hyperdata.ltd/blog/istio-deepin-part1-framework-and-environment/</link>
+      <pubDate>Wed, 04 Jul 2018 19:11:00 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/blog/istio-deepin-part1-framework-and-environment/</guid>
+      <description>本文系转载，作者：郑伟，小米信息部技术架构组 本系列文章主要从源码（35e2b904）出发，对istio做深入剖析，让大家对istio有更深的</description>
+    </item>
+    
+    <item>
+      <title>Istio 0.8发布了！</title>
+      <link>https://blog.hyperdata.ltd/blog/istio-0.8-release-note/</link>
+      <pubDate>Fri, 01 Jun 2018 11:41:00 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/blog/istio-0.8-release-note/</guid>
+      <description>北京时间 2018 年 6 月 1 日（儿童节）上午 9: 30 Istio 0.8.0 LTS（长期支持版本）发布。该版本除了常见的一堆错误修复和性能改进之外，还包含以下更新和新功能。 网</description>
+    </item>
+    
+  </channel>
+</rss>

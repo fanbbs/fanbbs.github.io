@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SpringCloud</title>
+    <link>https://blog.hyperdata.ltd/</link>
+    <description>Recent content on SpringCloud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 15 Nov 2018 13:20:46 +0800</lastBuildDate>
+    
+	<atom:link href="https://blog.hyperdata.ltd/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Envoy，gRPC和速率限制</title>
+      <link>https://blog.hyperdata.ltd/blog/envoy-grpc-and-rate-limiting/</link>
+      <pubDate>Thu, 15 Nov 2018 13:20:46 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/blog/envoy-grpc-and-rate-limiting/</guid>
+      <description>Envoy是专为Cloud Native应用设计的轻量级服务代理，也是为数不多的支持gRPC的代理之一。gRPC是一个基于HTTP/2的高性能</description>
+    </item>
+    
+    <item>
+      <title>理解 Istio Service Mesh 中 Envoy 代理 Sidecar 注入及流量劫持</title>
+      <link>https://blog.hyperdata.ltd/blog/envoy-sidecar-injection-in-istio-service-mesh-deep-dive/</link>
+      <pubDate>Tue, 11 Sep 2018 14:48:53 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/blog/envoy-sidecar-injection-in-istio-service-mesh-deep-dive/</guid>
+      <description>以往有很多文章讲解 Istio 是如何做 Sidecar 注入的，但是没有讲解注入之后 Sidecar 工作的细节。本文将带大家详细了解 Istio 是如何将 Envoy 作为 Sidecar 的方式注入到应用程序 Pod 中，及 Sidecar</description>
+    </item>
+    
+    <item>
+      <title>Envoy服务网格在Lyft的实践及未来路线图</title>
+      <link>https://blog.hyperdata.ltd/blog/envoy-service-mesh-cascading-failure/</link>
+      <pubDate>Sun, 02 Sep 2018 13:48:47 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/blog/envoy-service-mesh-cascading-failure/</guid>
+      <description>关键要点 在过去的四年中，Lyft 已从单体架构转变为数百个微服务。随着微服务数量的增加，由于级联故障或意外内部拒绝服务导致的中断次数也在增加。</description>
+    </item>
+    
+    <item>
+      <title>IBM云计算CTO讲述Istio项目的起源、分工及目标</title>
+      <link>https://blog.hyperdata.ltd/blog/istio-aims-to-be-the-mesh-plumbing-for-containerized-microservices/</link>
+      <pubDate>Tue, 28 Aug 2018 16:15:25 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/blog/istio-aims-to-be-the-mesh-plumbing-for-containerized-microservices/</guid>
+      <description>本文原标题为：Istio目标是成为容器化微服务的网状管道 在精彩的软件容器世界中，原本早已解决的问题又有新的解决方案出现，给人有种恍惚的感觉。</description>
+    </item>
+    
+    <item>
+      <title>Istio源码解析系列part3—Mixer工作流程浅析</title>
+      <link>https://blog.hyperdata.ltd/blog/istio-deepin-part3-mixer-workflow/</link>
+      <pubDate>Wed, 04 Jul 2018 19:44:08 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/blog/istio-deepin-part3-mixer-workflow/</guid>
+      <description>本文系转载，作者：郑伟，小米信息部技术架构组 本系列文章主要从源码（35e2b904）出发，对istio做深入剖析，让大家对istio有更深的</description>
+    </item>
+    
+    <item>
+      <title>Istio源码解析系列part2—服务治理配置生效流程解析</title>
+      <link>https://blog.hyperdata.ltd/blog/istio-deepin-part2-serivce-management-workflow/</link>
+      <pubDate>Wed, 04 Jul 2018 19:24:37 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/blog/istio-deepin-part2-serivce-management-workflow/</guid>
+      <description>本文系转载，原文作者：郑伟，小米信息部技术架构组 本系列文章主要从源码（35e2b904）出发，对istio做深入剖析，让大家对istio有更</description>
+    </item>
+    
+    <item>
+      <title>Istio源码解析系列part1—Istio源码架构介绍及开发环境搭建</title>
+      <link>https://blog.hyperdata.ltd/blog/istio-deepin-part1-framework-and-environment/</link>
+      <pubDate>Wed, 04 Jul 2018 19:11:00 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/blog/istio-deepin-part1-framework-and-environment/</guid>
+      <description>本文系转载，作者：郑伟，小米信息部技术架构组 本系列文章主要从源码（35e2b904）出发，对istio做深入剖析，让大家对istio有更深的</description>
+    </item>
+    
+    <item>
+      <title>Istio 0.8发布了！</title>
+      <link>https://blog.hyperdata.ltd/blog/istio-0.8-release-note/</link>
+      <pubDate>Fri, 01 Jun 2018 11:41:00 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/blog/istio-0.8-release-note/</guid>
+      <description>北京时间 2018 年 6 月 1 日（儿童节）上午 9: 30 Istio 0.8.0 LTS（长期支持版本）发布。该版本除了常见的一堆错误修复和性能改进之外，还包含以下更新和新功能。 网</description>
+    </item>
+    
+    <item>
+      <title>作者投稿</title>
+      <link>https://blog.hyperdata.ltd/authors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/authors/</guid>
+      <description>以下是投稿的作者及原创文章数目统计信息。 作者 文章数 aaa 11 bbb 9 投递原创文章请访问 https://github.com/servicemesher/trans</description>
+    </item>
+    
+    <item>
+      <title>活动</title>
+      <link>https://blog.hyperdata.ltd/activity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/activity/</guid>
+      <description>Service Mesh Meetup活动索引 以下是历届Service Mesh Meetup的活动信息索引。 历届幻灯片下载地址：https://github.com/se</description>
+    </item>
+    
+    <item>
+      <title>联系我们</title>
+      <link>https://blog.hyperdata.ltd/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/contact/</guid>
+      <description>这里是公司内部 SpringCloud 社区，SpringCloud人共同的家园。 我们的使命 传播 微服务、云化 技术 加强行业内部交流 促进开源文化构建 推动微服务 SpringCloud 架构在企</description>
+    </item>
+    
+    <item>
+      <title>译者投稿</title>
+      <link>https://blog.hyperdata.ltd/translators/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/translators/</guid>
+      <description>以下是投稿的译者及译文数目统计信息。 译者 文章数 殷龙飞 14 甄中元 11 宋净超 11 马若飞 6 陈冬 5 戴佳顺 5 崔秀龙 4 王帅俭 3 王全根 3 李昕阳 3 詹叶 2 狄卫华 2 杨</description>
+    </item>
+    
+  </channel>
+</rss>

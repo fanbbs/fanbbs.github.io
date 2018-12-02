@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Translation on SpringCloud</title>
+    <link>https://blog.hyperdata.ltd/categories/translation/</link>
+    <description>Recent content in Translation on SpringCloud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 15 Nov 2018 13:20:46 +0800</lastBuildDate>
+    
+	<atom:link href="https://blog.hyperdata.ltd/categories/translation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Envoy，gRPC和速率限制</title>
+      <link>https://blog.hyperdata.ltd/blog/envoy-grpc-and-rate-limiting/</link>
+      <pubDate>Thu, 15 Nov 2018 13:20:46 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/blog/envoy-grpc-and-rate-limiting/</guid>
+      <description>Envoy是专为Cloud Native应用设计的轻量级服务代理，也是为数不多的支持gRPC的代理之一。gRPC是一个基于HTTP/2的高性能</description>
+    </item>
+    
+    <item>
+      <title>Envoy服务网格在Lyft的实践及未来路线图</title>
+      <link>https://blog.hyperdata.ltd/blog/envoy-service-mesh-cascading-failure/</link>
+      <pubDate>Sun, 02 Sep 2018 13:48:47 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/blog/envoy-service-mesh-cascading-failure/</guid>
+      <description>关键要点 在过去的四年中，Lyft 已从单体架构转变为数百个微服务。随着微服务数量的增加，由于级联故障或意外内部拒绝服务导致的中断次数也在增加。</description>
+    </item>
+    
+    <item>
+      <title>IBM云计算CTO讲述Istio项目的起源、分工及目标</title>
+      <link>https://blog.hyperdata.ltd/blog/istio-aims-to-be-the-mesh-plumbing-for-containerized-microservices/</link>
+      <pubDate>Tue, 28 Aug 2018 16:15:25 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/blog/istio-aims-to-be-the-mesh-plumbing-for-containerized-microservices/</guid>
+      <description>本文原标题为：Istio目标是成为容器化微服务的网状管道 在精彩的软件容器世界中，原本早已解决的问题又有新的解决方案出现，给人有种恍惚的感觉。</description>
+    </item>
+    
+    <item>
+      <title>Istio 0.8发布了！</title>
+      <link>https://blog.hyperdata.ltd/blog/istio-0.8-release-note/</link>
+      <pubDate>Fri, 01 Jun 2018 11:41:00 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/blog/istio-0.8-release-note/</guid>
+      <description>北京时间 2018 年 6 月 1 日（儿童节）上午 9: 30 Istio 0.8.0 LTS（长期支持版本）发布。该版本除了常见的一堆错误修复和性能改进之外，还包含以下更新和新功能。 网</description>
+    </item>
+    
+  </channel>
+</rss>

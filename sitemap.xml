@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/blog/envoy-grpc-and-rate-limiting/</loc>
+    <lastmod>2018-11-15T13:20:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/blog/envoy-sidecar-injection-in-istio-service-mesh-deep-dive/</loc>
+    <lastmod>2018-09-11T14:48:53+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/blog/envoy-service-mesh-cascading-failure/</loc>
+    <lastmod>2018-09-02T13:48:47+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/blog/istio-aims-to-be-the-mesh-plumbing-for-containerized-microservices/</loc>
+    <lastmod>2018-08-28T16:15:25+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/blog/istio-deepin-part3-mixer-workflow/</loc>
+    <lastmod>2018-07-04T19:44:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/blog/istio-deepin-part2-serivce-management-workflow/</loc>
+    <lastmod>2018-07-04T19:24:37+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/blog/istio-deepin-part1-framework-and-environment/</loc>
+    <lastmod>2018-07-04T19:11:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/blog/istio-0.8-release-note/</loc>
+    <lastmod>2018-06-01T11:41:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/blog/</loc>
+    <lastmod>2018-05-20T15:51:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/tags/envoy/</loc>
+    <lastmod>2018-11-15T13:20:46+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/tags/google/</loc>
+    <lastmod>2018-08-28T16:15:25+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/tags/grpc/</loc>
+    <lastmod>2018-11-15T13:20:46+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/tags/ibm/</loc>
+    <lastmod>2018-08-28T16:15:25+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/tags/iptables/</loc>
+    <lastmod>2018-09-11T14:48:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/tags/istio/</loc>
+    <lastmod>2018-09-11T14:48:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/categories/istio/</loc>
+    <lastmod>2018-09-11T14:48:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/categories/istio-source-deepin/</loc>
+    <lastmod>2018-07-04T19:44:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/tags/lyft/</loc>
+    <lastmod>2018-09-02T13:48:47+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/tags/rate-limiting/</loc>
+    <lastmod>2018-11-15T13:20:46+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/tags/service-mesh/</loc>
+    <lastmod>2018-09-02T13:48:47+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/tags/sidecar/</loc>
+    <lastmod>2018-09-11T14:48:53+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/tags/source-code/</loc>
+    <lastmod>2018-07-04T19:44:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/</loc>
+    <lastmod>2018-11-15T13:20:46+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/tags/</loc>
+    <lastmod>2018-11-15T13:20:46+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/categories/translation/</loc>
+    <lastmod>2018-11-15T13:20:46+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/authors/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/activity/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://blog.hyperdata.ltd/translators/</loc>
+  </url>
+  
+</urlset>

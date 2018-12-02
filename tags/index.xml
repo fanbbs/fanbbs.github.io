@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on SpringCloud</title>
+    <link>https://blog.hyperdata.ltd/tags/</link>
+    <description>Recent content in Tags on SpringCloud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 15 Nov 2018 13:20:46 +0800</lastBuildDate>
+    
+	<atom:link href="https://blog.hyperdata.ltd/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Envoy</title>
+      <link>https://blog.hyperdata.ltd/tags/envoy/</link>
+      <pubDate>Thu, 15 Nov 2018 13:20:46 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/tags/envoy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google</title>
+      <link>https://blog.hyperdata.ltd/tags/google/</link>
+      <pubDate>Tue, 28 Aug 2018 16:15:25 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/tags/google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grpc</title>
+      <link>https://blog.hyperdata.ltd/tags/grpc/</link>
+      <pubDate>Thu, 15 Nov 2018 13:20:46 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/tags/grpc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ibm</title>
+      <link>https://blog.hyperdata.ltd/tags/ibm/</link>
+      <pubDate>Tue, 28 Aug 2018 16:15:25 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/tags/ibm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iptables</title>
+      <link>https://blog.hyperdata.ltd/tags/iptables/</link>
+      <pubDate>Tue, 11 Sep 2018 14:48:53 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/tags/iptables/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Istio</title>
+      <link>https://blog.hyperdata.ltd/tags/istio/</link>
+      <pubDate>Tue, 11 Sep 2018 14:48:53 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/tags/istio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lyft</title>
+      <link>https://blog.hyperdata.ltd/tags/lyft/</link>
+      <pubDate>Sun, 02 Sep 2018 13:48:47 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/tags/lyft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rate Limiting</title>
+      <link>https://blog.hyperdata.ltd/tags/rate-limiting/</link>
+      <pubDate>Thu, 15 Nov 2018 13:20:46 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/tags/rate-limiting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Service Mesh</title>
+      <link>https://blog.hyperdata.ltd/tags/service-mesh/</link>
+      <pubDate>Sun, 02 Sep 2018 13:48:47 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/tags/service-mesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sidecar</title>
+      <link>https://blog.hyperdata.ltd/tags/sidecar/</link>
+      <pubDate>Tue, 11 Sep 2018 14:48:53 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/tags/sidecar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Source Code</title>
+      <link>https://blog.hyperdata.ltd/tags/source-code/</link>
+      <pubDate>Wed, 04 Jul 2018 19:44:08 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/tags/source-code/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

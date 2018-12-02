@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Source Code on SpringCloud</title>
+    <link>https://blog.hyperdata.ltd/tags/source-code/</link>
+    <description>Recent content in Source Code on SpringCloud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 04 Jul 2018 19:44:08 +0800</lastBuildDate>
+    
+	<atom:link href="https://blog.hyperdata.ltd/tags/source-code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Istio源码解析系列part3—Mixer工作流程浅析</title>
+      <link>https://blog.hyperdata.ltd/blog/istio-deepin-part3-mixer-workflow/</link>
+      <pubDate>Wed, 04 Jul 2018 19:44:08 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/blog/istio-deepin-part3-mixer-workflow/</guid>
+      <description>本文系转载，作者：郑伟，小米信息部技术架构组 本系列文章主要从源码（35e2b904）出发，对istio做深入剖析，让大家对istio有更深的</description>
+    </item>
+    
+    <item>
+      <title>Istio源码解析系列part2—服务治理配置生效流程解析</title>
+      <link>https://blog.hyperdata.ltd/blog/istio-deepin-part2-serivce-management-workflow/</link>
+      <pubDate>Wed, 04 Jul 2018 19:24:37 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/blog/istio-deepin-part2-serivce-management-workflow/</guid>
+      <description>本文系转载，原文作者：郑伟，小米信息部技术架构组 本系列文章主要从源码（35e2b904）出发，对istio做深入剖析，让大家对istio有更</description>
+    </item>
+    
+    <item>
+      <title>Istio源码解析系列part1—Istio源码架构介绍及开发环境搭建</title>
+      <link>https://blog.hyperdata.ltd/blog/istio-deepin-part1-framework-and-environment/</link>
+      <pubDate>Wed, 04 Jul 2018 19:11:00 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/blog/istio-deepin-part1-framework-and-environment/</guid>
+      <description>本文系转载，作者：郑伟，小米信息部技术架构组 本系列文章主要从源码（35e2b904）出发，对istio做深入剖析，让大家对istio有更深的</description>
+    </item>
+    
+  </channel>
+</rss>

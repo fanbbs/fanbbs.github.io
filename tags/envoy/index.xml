@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Envoy on SpringCloud</title>
+    <link>https://blog.hyperdata.ltd/tags/envoy/</link>
+    <description>Recent content in Envoy on SpringCloud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 15 Nov 2018 13:20:46 +0800</lastBuildDate>
+    
+	<atom:link href="https://blog.hyperdata.ltd/tags/envoy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Envoy，gRPC和速率限制</title>
+      <link>https://blog.hyperdata.ltd/blog/envoy-grpc-and-rate-limiting/</link>
+      <pubDate>Thu, 15 Nov 2018 13:20:46 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/blog/envoy-grpc-and-rate-limiting/</guid>
+      <description>Envoy是专为Cloud Native应用设计的轻量级服务代理，也是为数不多的支持gRPC的代理之一。gRPC是一个基于HTTP/2的高性能</description>
+    </item>
+    
+    <item>
+      <title>理解 Istio Service Mesh 中 Envoy 代理 Sidecar 注入及流量劫持</title>
+      <link>https://blog.hyperdata.ltd/blog/envoy-sidecar-injection-in-istio-service-mesh-deep-dive/</link>
+      <pubDate>Tue, 11 Sep 2018 14:48:53 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/blog/envoy-sidecar-injection-in-istio-service-mesh-deep-dive/</guid>
+      <description>以往有很多文章讲解 Istio 是如何做 Sidecar 注入的，但是没有讲解注入之后 Sidecar 工作的细节。本文将带大家详细了解 Istio 是如何将 Envoy 作为 Sidecar 的方式注入到应用程序 Pod 中，及 Sidecar</description>
+    </item>
+    
+    <item>
+      <title>Envoy服务网格在Lyft的实践及未来路线图</title>
+      <link>https://blog.hyperdata.ltd/blog/envoy-service-mesh-cascading-failure/</link>
+      <pubDate>Sun, 02 Sep 2018 13:48:47 +0800</pubDate>
+      
+      <guid>https://blog.hyperdata.ltd/blog/envoy-service-mesh-cascading-failure/</guid>
+      <description>关键要点 在过去的四年中，Lyft 已从单体架构转变为数百个微服务。随着微服务数量的增加，由于级联故障或意外内部拒绝服务导致的中断次数也在增加。</description>
+    </item>
+    
+  </channel>
+</rss>
